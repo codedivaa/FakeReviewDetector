@@ -1,0 +1,11 @@
+review,rating,Fake Score,Reasons,Prediction
+This product is amazing!!! Buy now!!!!,5,65,"Too many exclamation marks, Repeated letters, Repeated punctuation, Spam phrase (buy now)",🔴 Fake
+Good quality and fast delivery.,5,0,None,🟢 Real
+Worst purchase ever.,1,0,None,🟢 Real
+BEST PRODUCT EVER!!!!!!,5,85,"ALL CAPS, Too many exclamation marks, Repeated letters, Repeated punctuation, Spam phrase (best product)",🔴 Fake
+Nice,5,15,Very short review,🟢 Real
+I absolutely love this product. Amazing amazing amazing!!!!,5,70,"Too many exclamation marks, Repeated letters, Repeated punctuation, Repeated words, Excessive positive words",🔴 Fake
+This is fake fake fake,5,10,Repeated words,🟢 Real
+Terrible quality,1,15,Very short review,🟢 Real
+Highly recommend everyone buy this now!!!,5,40,"Too many exclamation marks, Spam phrase (highly recommend)",🟡 Suspicious
+good,5,15,Very short review,🟢 Real
