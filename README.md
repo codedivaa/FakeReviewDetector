@@ -362,6 +362,9 @@ If you would like to improve this project:
 5. Open a Pull Request
 
 ---
+# Author
+**Codedivaa**
+
 
 # ⭐ Support
 
