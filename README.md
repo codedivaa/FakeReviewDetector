@@ -18,7 +18,7 @@ Instead of simply classifying reviews as "Fake" or "Real", the detector explains
 ├─────────────────────────────┼────────┼───────┼──────────────┼─────────────────────────────┤
 │ BEST PRODUCT EVER!!!!!!     │   5    │  80   │ 🔴 Fake      │ ALL CAPS, Spam Phrase       │
 │ Nice                        │   5    │  15   │ 🟢 Real      │ Very short review           │
-│ Highly recommend buy now!!! │   5    │  65   │ 🔴 Fake      │ Spam Phrase, Too many !     │
+│ Highly recommend buy now!!! │   5    │  65   │ 🔴 Fake      │ Spam Phrase, Too many!      │
 └─────────────────────────────┴────────┴───────┴──────────────┴─────────────────────────────┘
 
 ✔ Analysis Complete
